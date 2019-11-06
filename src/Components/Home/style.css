@@ -1,0 +1,53 @@
+.homesec{
+    height: 500px;
+    background: url("./home.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+}
+.homeinfo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
+
+.hometit{
+    font-size: 60px;
+    font-weight: bold;
+    color: rgb(4, 21, 22);
+}
+
+.homeinfo2{
+    font-size: 35px;
+    color: rgb(4, 21, 22);
+    margin-bottom: 20px;
+}
+   
+
+.homedesc{
+    font-size: 20px;
+    line-height: 1.5;
+    color: rgb(4, 21, 22);
+    margin-bottom: 20px
+}
+
+.homebutton{
+    background: cadetblue;
+    color: black;
+    font-size: 18px;
+    width: 150px;
+    border: 0;
+    padding: 15px;
+    cursor: pointer;
+    font-weight: bold
+   
+}
+.homebutton:hover{
+    background: black;
+    color: cadetblue;
+}
+   
+
+

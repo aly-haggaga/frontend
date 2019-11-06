@@ -1,0 +1,87 @@
+{
+    "Advantages" : [
+        {
+            "id" : 1,
+            "title": "Responsibly Sourced",
+            "body": "Responsibly-sourced seafood is the key to the modern, safe and profitable seafood industry."
+        },
+        {
+            "id" : 2,
+            "title": "Environment",
+            "body": "The seafood industry has a concern over climate impact, and takes responsibility in any case."
+        },
+        {
+            "id" : 3,
+            "title": "Staff",
+            "body": "Our experts work hard to maintain the quality seafood for our dear customers exclusively."
+        },
+        {
+            "id" : 4,
+            "title": "Marketplace",
+            "body": "Your business becomes benefitial by providing the customers with the best."
+        }
+    ],
+
+    "products" : [
+        {
+            "id":1,
+            "image": "./img/Clams.jpg",
+            "name" :"Clams"
+        },
+        {
+            "id":2,
+            "image": "./img/Crab.jpg",
+            "name" :"Crab"
+        },
+        {
+            "id":3,
+            "image": "./img/Lobster.jpg",
+            "name" :"Lobster"
+        },
+        {
+            "id":4,
+            "image": "./img/Masago.jpg",
+            "name" :"Masago"
+        },
+        {
+            "id":5,
+            "image": "./img/Mussels.jpg",
+            "name" :"Mussels"
+        },
+        {
+            "id":6,
+            "image": "./img/Salmon.jpg",
+            "name" :"Salmon"
+        },
+        {
+            "id":7,
+            "image": "./img/Shrimp.jpg",
+            "name" :"Shrimp"
+        },
+        {
+            "id":8,
+            "image": "./img/Tuna.jpg",
+            "name" :"Tuna"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
